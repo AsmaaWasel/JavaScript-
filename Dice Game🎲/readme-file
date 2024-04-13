@@ -1,0 +1,5 @@
+This JavaScript project implements a simple dice game for two players. The game allows players to roll a dice and accumulate points, with the objective of reaching a predefined score to win.
+
+✨ Key features ✨ 👉 rolling the dice. 👉 updating the current score. 👉 holding the current score and switching to the next player. 👉 as well as resetting the game to its initial state.
+
+The project demonstrates proficiency in ✅ event handling. ✅ conditional statements. ✅ game logic implementation using JavaScript.
