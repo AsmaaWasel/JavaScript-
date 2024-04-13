@@ -1,0 +1,5 @@
+This JavaScript project is a modal window implementation.
+
+It includes functionality to 👉 open and close a modal window when clicking designated buttons or pressing the Escape key. 👉 The modal window can be opened by clicking on elements with the class "show-modal", 👉 and closed either by clicking the close button inside the modal or by pressing the Escape key.
+
+The project showcases ✅ event handling, ✅ class toggling for CSS effects, ✅ keyboard event listening for enhanced user experience.
