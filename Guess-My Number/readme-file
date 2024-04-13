@@ -1,0 +1,5 @@
+This JavaScript project is a simple number guessing game utilizing DOM manipulation. The user is prompted to guess a secret number between 1 and 20.
+
+✨ Key features ✨ 👉 input validation, 👉 dynamic messaging based on the user's guess, 👉 scoring system with a high score tracker.
+
+The project demonstrates proficiency in : ✅ event handling ✅ conditional statements ✅ random number generation ✅ styling manipulation using JavaScript and HTML/CSS.
