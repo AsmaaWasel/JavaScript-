@@ -1,0 +1,11 @@
+This repository contains a JavaScript file (poll.js) that implements a basic polling application and also includes functionality to change the color of the header text in an HTML document.
+
+Features
+👉 Polling Application:
+✅ Users can answer a predefined question regarding their favorite programming language by selecting an option.
+✅ Options are presented with numeric identifiers.
+✅ Responses are collected and displayed as an array or a comma-separated string.
+✅ Users can interact with the polling system via prompts and HTML button clicks.
+👉 Header Color Change:
+✅ The color of the header text dynamically changes upon clicking anywhere on the webpage.
+✅ Initially set to red, the header color changes to blue upon any click event on the document body.
